@@ -1,0 +1,9 @@
+C:\dev\GitHub\SoCalSurfing\IdentityService\bin\Debug\netcoreapp1.1\IdentityService.deps.json
+C:\dev\GitHub\SoCalSurfing\IdentityService\bin\Debug\netcoreapp1.1\IdentityService.runtimeconfig.json
+C:\dev\GitHub\SoCalSurfing\IdentityService\bin\Debug\netcoreapp1.1\IdentityService.runtimeconfig.dev.json
+C:\dev\GitHub\SoCalSurfing\IdentityService\bin\Debug\netcoreapp1.1\IdentityService.dll
+C:\dev\GitHub\SoCalSurfing\IdentityService\bin\Debug\netcoreapp1.1\IdentityService.pdb
+C:\dev\GitHub\SoCalSurfing\IdentityService\obj\Debug\netcoreapp1.1\IdentityService.csprojResolveAssemblyReference.cache
+C:\dev\GitHub\SoCalSurfing\IdentityService\obj\Debug\netcoreapp1.1\IdentityService.AssemblyInfo.cs
+C:\dev\GitHub\SoCalSurfing\IdentityService\obj\Debug\netcoreapp1.1\IdentityService.dll
+C:\dev\GitHub\SoCalSurfing\IdentityService\obj\Debug\netcoreapp1.1\IdentityService.pdb
