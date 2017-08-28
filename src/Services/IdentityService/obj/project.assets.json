@@ -9663,10 +9663,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\GitHub\\SoCalSurfing\\IdentityService\\IdentityService.csproj",
-      "projectName": "IdentityService",
-      "projectPath": "C:\\dev\\GitHub\\SoCalSurfing\\IdentityService\\IdentityService.csproj",
-      "outputPath": "C:\\dev\\GitHub\\SoCalSurfing\\IdentityService\\obj\\",
+      "projectUniqueName": "C:\\dev\\GitHub\\SoCalSurfing\\src\\Services\\IdentityService\\IdentityService.API.csproj",
+      "projectName": "IdentityService.API",
+      "projectPath": "C:\\dev\\GitHub\\SoCalSurfing\\src\\Services\\IdentityService\\IdentityService.API.csproj",
+      "outputPath": "C:\\dev\\GitHub\\SoCalSurfing\\src\\Services\\IdentityService\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
